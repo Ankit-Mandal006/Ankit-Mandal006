@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1a1a2e,16213e,0f3460,e94560&text=Ankit%20Mandal&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;C%2B%2B+Programmer;Gameplay+Engineer;Graphics+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=E94560&vCenter=true&pause=1000&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Unity+Game+Developer;C%23+Programmer;Gameplay+Engineer;Technical+Artist&font=Fira+Code&center=true&width=600&height=50&color=E94560&vCenter=true&pause=1000&size=28" />
 </p>
 
 <br/>
@@ -14,9 +14,9 @@
 
 ## 🕹️ What I’m Working On
 
-* 🎮 **Custom C++ Game Engine** → Building a 2D/3D engine from scratch using OpenGL
-* ⚔️ **Combat System Mechanics** → Developing advanced AI-driven NPC behavior and hit-detection systems
-* 🌍 **Procedural World Gen** → Researching noise algorithms for infinite terrain generation
+* 🎮 **Unity Game Projects** → Developing immersive 2D/3D experiences using C#
+* ✨ **Visual Effects & Shaders** → Experimenting with Unity Shader Graph and URP
+* 🎨 **3D Asset Integration** → Bringing Blender models to life within the Unity Engine
 
 <br/>
 
@@ -24,16 +24,24 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/ankit-mandal-724890359/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="https://ankit-mandal006.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<a href="https://www.artstation.com/ankitmandal006/albums/14439986" target="_blank">
+  <img src="https://img.shields.io/badge/ARTSTATION-13171A?style=for-the-badge&logo=artstation&logoColor=white" />
+</a>
+
+<a href="mailto:mandal.ankit190506@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://itch.io/profile/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+<a href="tel:+919234435686" target="_blank">
+  <img src="https://img.shields.io/badge/PHONE-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -45,27 +53,27 @@
 ### 💻 Core Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,lua" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python" />
 </p>
 
-### 🎮 Game Engines & Graphics
+### 🎮 Engine & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=blue" />
-  <img src="https://img.shields.io/badge/DirectX-0078D7?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://img.shields.io/badge/Unity_C%23-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/URP-Shader_Graph-grey?style=flat-square&logo=unity" />
 </p>
 <p>
-  Unity (C#) • Unreal Engine (C++) • SDL2 • SFML • HLSL/GLSL
+  Unity 2D/3D • Physics Engine • UI Toolkit • Particle Systems (VFX)
 </p>
 
-### 🛠 Tools & Technologies
+### 🛠 Tools & Creative Suite
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,blender" />
+  <img src="https://skillicons.dev/icons?i=blender,ps,git,github,visualstudio" />
 </p>
 <p>
-  RenderDoc • Maya • Perforce • Aseprite
+  Aseprite • Visual Studio Community • GitHub Desktop
 </p>
 
 <br/>
@@ -74,33 +82,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitmandal&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-Mandal006&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmandal&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ankitmandal&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Mandal006&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitmandal&bg_color=0b1020&line=6ea8ff&point=9be7ff&area=true&theme=react-dark" />
+
+<img src="https://streak-stats.demolab.com?user=Ankit-Mandal006&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Mandal006&bg_color=0b1020&line=e94560&point=9be7ff&area=true&theme=react-dark" />
 </div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitmandal/ankitmandal/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitmandal/ankitmandal/output/github-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/ankitmandal/ankitmandal/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit-Mandal006/Ankit-Mandal006/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit-Mandal006/Ankit-Mandal006/output/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/Ankit-Mandal006/Ankit-Mandal006/output/github-snake.svg">
 </picture>
 
 <hr/>
-<p align="center">"Leveling up, one line of code at a time."</p>
+<p align="center">"Building worlds in Unity, one script at a time."</p>
