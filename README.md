@@ -40,10 +40,6 @@
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="tel:+919234435686" target="_blank">
-  <img src="https://img.shields.io/badge/PHONE-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
