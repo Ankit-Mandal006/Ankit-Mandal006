@@ -39,10 +39,10 @@ My focus lies in developing intelligent AI behaviors, responsive mechanics, and 
 
 ```text
 ┌────────────────────────────────────────┬────────────────────────────────────────┬────────────────────────────────────────┐
-│ 01 // ENGINEERING MINDSET             │ 02 // TECHNICAL RIGOR                  │ 03 // EXECUTION & IMPACT               │
+│ 01 // ENGINEERING MINDSET              │ 02 // TECHNICAL RIGOR                  │ 03 // EXECUTION & IMPACT               │
 ├────────────────────────────────────────┼────────────────────────────────────────┼────────────────────────────────────────┤
 │ Systems & AI Architecture              │ CS Fundamentals & Math                 │ Problem Solving                        │
-│ Strong emphasis on modular system     │ Grounded in data structures,           │ A proactive developer experienced in   │
+│ Strong emphasis on modular system      │ Grounded in data structures,           │ A proactive developer experienced in   │
 │ design, finite state machines, custom  │ algorithm optimization, vector         │ cross-functional team collaboration,   │
 │ NPC behavior, and clean code.          │ mathematics, & performance tuning.     │ rapid prototyping, & builds.           │
 └────────────────────────────────────────┴────────────────────────────────────────┴────────────────────────────────────────┘
